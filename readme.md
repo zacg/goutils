@@ -1,4 +1,7 @@
 
+
+***This repo is no longer maintained
+
 Utility library for go
 
 Currently contains:
